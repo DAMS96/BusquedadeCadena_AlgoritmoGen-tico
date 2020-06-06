@@ -2,15 +2,12 @@
 
 _Programa en Python3 para buscar una cadena objetivo, a partir de una cadena aleatoria usando Algoritmos Genéticos_
 
-Mira **Deployment** para conocer como desplegar el proyecto.
-
 
 ### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+_ Se necesita el Módulo de Random de la Librería estándar de Python _
 
-```
-Da un ejemplo
+```import random
 ```
 
 ### Instalación 🔧
