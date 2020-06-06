@@ -1,6 +1,6 @@
 # BusquedadeCadena_AlgoritmoGenetico 🚀
 
-_Programa en Python3 para buscar una cadena objetivo, a partir de la generación de cadenas aleatorias usando Algoritmos Genéticos_
+_Programa en Python3 para realizar la busqueda de una cadena objetivo, a partir de la generación de cadenas aleatorias usando Algoritmos Genéticos_
 
 
 ### Pre-requisitos 📋
