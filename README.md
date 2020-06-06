@@ -5,7 +5,7 @@ _Programa en Python3 para realizar la busqueda de una cadena objetivo, a partir 
 
 ### Pre-requisitos 📋
 
-_Se necesita el Módulo de Random de la Librería estándar de Python_
+_Se necesita el Módulo Random de la Librería estándar de Python_
 
 ```
 import random
