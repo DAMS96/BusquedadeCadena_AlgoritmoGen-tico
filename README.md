@@ -5,9 +5,10 @@ _Programa en Python3 para buscar una cadena objetivo, a partir de una cadena ale
 
 ### Pre-requisitos 📋
 
-_ Se necesita el Módulo de Random de la Librería estándar de Python _
+_Se necesita el Módulo de Random de la Librería estándar de Python_
 
-```import random
+```
+import random
 ```
 
 ### Instalación 🔧
