@@ -1,6 +1,6 @@
-# BusquedadeCadena_AlgoritmoGenetico🚀
+# BusquedadeCadena_AlgoritmoGenetico 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+_Programa en Python3 para crear una cadena objetivo, a partir de una cadena aleatoria usando Algoritmos Genéticos_
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
